@@ -5,6 +5,9 @@
 #ifndef __AUTO_CONFIG_H
 #define __AUTO_CONFIG_H
 
+//liping 0217 add just for test git
+
+
 // 
 //  Automatically generated make config: don't edit
 //  Linux kernel version: KERNELVERSION
