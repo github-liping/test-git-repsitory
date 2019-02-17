@@ -1,0 +1,4 @@
+#define PANEL_NAME	"LSD190MGW1"
+#define PANEL_SIZE	"19"
+#define P_RESOLUTION	"1440 x 900"
+#include <Platform_Lib/panel/PANEL_LSD190MGW1_1440x900/panel.h>

@@ -1,0 +1,4 @@
+#define PANEL_NAME	"9D-BOE-50P"
+#define PANEL_SIZE	"9"
+#define P_RESOLUTION	"800 x 480"
+#include <Platform_Lib/panel/PANEL_9D_BOE_50P_800x480/panel.h>

@@ -1,0 +1,4 @@
+#define PANEL_NAME	"VVH32L147G22LTY"
+#define PANEL_SIZE	"32"
+#define P_RESOLUTION	"1366 x 768"
+#include <Platform_Lib/panel/PANEL_VVH32L147G22LTY_1366x768/panel.h>

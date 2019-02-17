@@ -1,0 +1,121 @@
+mask.lo: mask.c config.h \
+ /home/lq/For_RTD293X/system/toolchain/gcc4/asdk-4.9.3-a53-EL-3.10-u0.9.33-a32nt-150818-pread64-nostrip-asycunwind/include/stdlib.h \
+ /home/lq/For_RTD293X/system/toolchain/gcc4/asdk-4.9.3-a53-EL-3.10-u0.9.33-a32nt-150818-pread64-nostrip-asycunwind/include/features.h \
+ /home/lq/For_RTD293X/system/toolchain/gcc4/asdk-4.9.3-a53-EL-3.10-u0.9.33-a32nt-150818-pread64-nostrip-asycunwind/include/bits/uClibc_config.h \
+ /home/lq/For_RTD293X/system/toolchain/gcc4/asdk-4.9.3-a53-EL-3.10-u0.9.33-a32nt-150818-pread64-nostrip-asycunwind/include/sys/cdefs.h \
+ /home/lq/For_RTD293X/system/toolchain/gcc4/asdk-4.9.3-a53-EL-3.10-u0.9.33-a32nt-150818-pread64-nostrip-asycunwind/lib/gcc/arm-linux-uclibcgnueabi/4.9.3/include/stddef.h \
+ /home/lq/For_RTD293X/system/toolchain/gcc4/asdk-4.9.3-a53-EL-3.10-u0.9.33-a32nt-150818-pread64-nostrip-asycunwind/include/sys/types.h \
+ /home/lq/For_RTD293X/system/toolchain/gcc4/asdk-4.9.3-a53-EL-3.10-u0.9.33-a32nt-150818-pread64-nostrip-asycunwind/include/bits/types.h \
+ /home/lq/For_RTD293X/system/toolchain/gcc4/asdk-4.9.3-a53-EL-3.10-u0.9.33-a32nt-150818-pread64-nostrip-asycunwind/include/bits/wordsize.h \
+ /home/lq/For_RTD293X/system/toolchain/gcc4/asdk-4.9.3-a53-EL-3.10-u0.9.33-a32nt-150818-pread64-nostrip-asycunwind/include/bits/typesizes.h \
+ /home/lq/For_RTD293X/system/toolchain/gcc4/asdk-4.9.3-a53-EL-3.10-u0.9.33-a32nt-150818-pread64-nostrip-asycunwind/include/time.h \
+ /home/lq/For_RTD293X/system/toolchain/gcc4/asdk-4.9.3-a53-EL-3.10-u0.9.33-a32nt-150818-pread64-nostrip-asycunwind/include/endian.h \
+ /home/lq/For_RTD293X/system/toolchain/gcc4/asdk-4.9.3-a53-EL-3.10-u0.9.33-a32nt-150818-pread64-nostrip-asycunwind/include/bits/endian.h \
+ /home/lq/For_RTD293X/system/toolchain/gcc4/asdk-4.9.3-a53-EL-3.10-u0.9.33-a32nt-150818-pread64-nostrip-asycunwind/include/byteswap.h \
+ /home/lq/For_RTD293X/system/toolchain/gcc4/asdk-4.9.3-a53-EL-3.10-u0.9.33-a32nt-150818-pread64-nostrip-asycunwind/include/bits/byteswap.h \
+ /home/lq/For_RTD293X/system/toolchain/gcc4/asdk-4.9.3-a53-EL-3.10-u0.9.33-a32nt-150818-pread64-nostrip-asycunwind/include/bits/byteswap-common.h \
+ /home/lq/For_RTD293X/system/toolchain/gcc4/asdk-4.9.3-a53-EL-3.10-u0.9.33-a32nt-150818-pread64-nostrip-asycunwind/include/sys/select.h \
+ /home/lq/For_RTD293X/system/toolchain/gcc4/asdk-4.9.3-a53-EL-3.10-u0.9.33-a32nt-150818-pread64-nostrip-asycunwind/include/bits/select.h \
+ /home/lq/For_RTD293X/system/toolchain/gcc4/asdk-4.9.3-a53-EL-3.10-u0.9.33-a32nt-150818-pread64-nostrip-asycunwind/include/bits/sigset.h \
+ /home/lq/For_RTD293X/system/toolchain/gcc4/asdk-4.9.3-a53-EL-3.10-u0.9.33-a32nt-150818-pread64-nostrip-asycunwind/include/bits/time.h \
+ /home/lq/For_RTD293X/system/toolchain/gcc4/asdk-4.9.3-a53-EL-3.10-u0.9.33-a32nt-150818-pread64-nostrip-asycunwind/include/sys/sysmacros.h \
+ /home/lq/For_RTD293X/system/toolchain/gcc4/asdk-4.9.3-a53-EL-3.10-u0.9.33-a32nt-150818-pread64-nostrip-asycunwind/include/bits/pthreadtypes.h \
+ /home/lq/For_RTD293X/system/toolchain/gcc4/asdk-4.9.3-a53-EL-3.10-u0.9.33-a32nt-150818-pread64-nostrip-asycunwind/include/alloca.h \
+ /home/lq/For_RTD293X/system/toolchain/gcc4/asdk-4.9.3-a53-EL-3.10-u0.9.33-a32nt-150818-pread64-nostrip-asycunwind/include/string.h \
+ /home/lq/For_RTD293X/system/toolchain/gcc4/asdk-4.9.3-a53-EL-3.10-u0.9.33-a32nt-150818-pread64-nostrip-asycunwind/lib/gcc/arm-linux-uclibcgnueabi/4.9.3/include-fixed/limits.h \
+ /home/lq/For_RTD293X/system/toolchain/gcc4/asdk-4.9.3-a53-EL-3.10-u0.9.33-a32nt-150818-pread64-nostrip-asycunwind/lib/gcc/arm-linux-uclibcgnueabi/4.9.3/include-fixed/syslimits.h \
+ /home/lq/For_RTD293X/system/toolchain/gcc4/asdk-4.9.3-a53-EL-3.10-u0.9.33-a32nt-150818-pread64-nostrip-asycunwind/include/limits.h \
+ /home/lq/For_RTD293X/system/toolchain/gcc4/asdk-4.9.3-a53-EL-3.10-u0.9.33-a32nt-150818-pread64-nostrip-asycunwind/include/bits/posix1_lim.h \
+ /home/lq/For_RTD293X/system/toolchain/gcc4/asdk-4.9.3-a53-EL-3.10-u0.9.33-a32nt-150818-pread64-nostrip-asycunwind/include/bits/local_lim.h \
+ /home/lq/For_RTD293X/system/toolchain/gcc4/asdk-4.9.3-a53-EL-3.10-u0.9.33-a32nt-150818-pread64-nostrip-asycunwind/include/linux/limits.h \
+ /home/lq/For_RTD293X/system/toolchain/gcc4/asdk-4.9.3-a53-EL-3.10-u0.9.33-a32nt-150818-pread64-nostrip-asycunwind/include/bits/uClibc_local_lim.h \
+ /home/lq/For_RTD293X/system/toolchain/gcc4/asdk-4.9.3-a53-EL-3.10-u0.9.33-a32nt-150818-pread64-nostrip-asycunwind/include/bits/posix2_lim.h \
+ /home/lq/For_RTD293X/system/toolchain/gcc4/asdk-4.9.3-a53-EL-3.10-u0.9.33-a32nt-150818-pread64-nostrip-asycunwind/include/errno.h \
+ /home/lq/For_RTD293X/system/toolchain/gcc4/asdk-4.9.3-a53-EL-3.10-u0.9.33-a32nt-150818-pread64-nostrip-asycunwind/include/bits/errno.h \
+ /home/lq/For_RTD293X/system/toolchain/gcc4/asdk-4.9.3-a53-EL-3.10-u0.9.33-a32nt-150818-pread64-nostrip-asycunwind/include/linux/errno.h \
+ /home/lq/For_RTD293X/system/toolchain/gcc4/asdk-4.9.3-a53-EL-3.10-u0.9.33-a32nt-150818-pread64-nostrip-asycunwind/include/asm/errno.h \
+ /home/lq/For_RTD293X/system/toolchain/gcc4/asdk-4.9.3-a53-EL-3.10-u0.9.33-a32nt-150818-pread64-nostrip-asycunwind/include/asm-generic/errno.h \
+ /home/lq/For_RTD293X/system/toolchain/gcc4/asdk-4.9.3-a53-EL-3.10-u0.9.33-a32nt-150818-pread64-nostrip-asycunwind/include/asm-generic/errno-base.h \
+ qrencode.h qrspec.h mask.h
+
+config.h:
+
+/home/lq/For_RTD293X/system/toolchain/gcc4/asdk-4.9.3-a53-EL-3.10-u0.9.33-a32nt-150818-pread64-nostrip-asycunwind/include/stdlib.h:
+
+/home/lq/For_RTD293X/system/toolchain/gcc4/asdk-4.9.3-a53-EL-3.10-u0.9.33-a32nt-150818-pread64-nostrip-asycunwind/include/features.h:
+
+/home/lq/For_RTD293X/system/toolchain/gcc4/asdk-4.9.3-a53-EL-3.10-u0.9.33-a32nt-150818-pread64-nostrip-asycunwind/include/bits/uClibc_config.h:
+
+/home/lq/For_RTD293X/system/toolchain/gcc4/asdk-4.9.3-a53-EL-3.10-u0.9.33-a32nt-150818-pread64-nostrip-asycunwind/include/sys/cdefs.h:
+
+/home/lq/For_RTD293X/system/toolchain/gcc4/asdk-4.9.3-a53-EL-3.10-u0.9.33-a32nt-150818-pread64-nostrip-asycunwind/lib/gcc/arm-linux-uclibcgnueabi/4.9.3/include/stddef.h:
+
+/home/lq/For_RTD293X/system/toolchain/gcc4/asdk-4.9.3-a53-EL-3.10-u0.9.33-a32nt-150818-pread64-nostrip-asycunwind/include/sys/types.h:
+
+/home/lq/For_RTD293X/system/toolchain/gcc4/asdk-4.9.3-a53-EL-3.10-u0.9.33-a32nt-150818-pread64-nostrip-asycunwind/include/bits/types.h:
+
+/home/lq/For_RTD293X/system/toolchain/gcc4/asdk-4.9.3-a53-EL-3.10-u0.9.33-a32nt-150818-pread64-nostrip-asycunwind/include/bits/wordsize.h:
+
+/home/lq/For_RTD293X/system/toolchain/gcc4/asdk-4.9.3-a53-EL-3.10-u0.9.33-a32nt-150818-pread64-nostrip-asycunwind/include/bits/typesizes.h:
+
+/home/lq/For_RTD293X/system/toolchain/gcc4/asdk-4.9.3-a53-EL-3.10-u0.9.33-a32nt-150818-pread64-nostrip-asycunwind/include/time.h:
+
+/home/lq/For_RTD293X/system/toolchain/gcc4/asdk-4.9.3-a53-EL-3.10-u0.9.33-a32nt-150818-pread64-nostrip-asycunwind/include/endian.h:
+
+/home/lq/For_RTD293X/system/toolchain/gcc4/asdk-4.9.3-a53-EL-3.10-u0.9.33-a32nt-150818-pread64-nostrip-asycunwind/include/bits/endian.h:
+
+/home/lq/For_RTD293X/system/toolchain/gcc4/asdk-4.9.3-a53-EL-3.10-u0.9.33-a32nt-150818-pread64-nostrip-asycunwind/include/byteswap.h:
+
+/home/lq/For_RTD293X/system/toolchain/gcc4/asdk-4.9.3-a53-EL-3.10-u0.9.33-a32nt-150818-pread64-nostrip-asycunwind/include/bits/byteswap.h:
+
+/home/lq/For_RTD293X/system/toolchain/gcc4/asdk-4.9.3-a53-EL-3.10-u0.9.33-a32nt-150818-pread64-nostrip-asycunwind/include/bits/byteswap-common.h:
+
+/home/lq/For_RTD293X/system/toolchain/gcc4/asdk-4.9.3-a53-EL-3.10-u0.9.33-a32nt-150818-pread64-nostrip-asycunwind/include/sys/select.h:
+
+/home/lq/For_RTD293X/system/toolchain/gcc4/asdk-4.9.3-a53-EL-3.10-u0.9.33-a32nt-150818-pread64-nostrip-asycunwind/include/bits/select.h:
+
+/home/lq/For_RTD293X/system/toolchain/gcc4/asdk-4.9.3-a53-EL-3.10-u0.9.33-a32nt-150818-pread64-nostrip-asycunwind/include/bits/sigset.h:
+
+/home/lq/For_RTD293X/system/toolchain/gcc4/asdk-4.9.3-a53-EL-3.10-u0.9.33-a32nt-150818-pread64-nostrip-asycunwind/include/bits/time.h:
+
+/home/lq/For_RTD293X/system/toolchain/gcc4/asdk-4.9.3-a53-EL-3.10-u0.9.33-a32nt-150818-pread64-nostrip-asycunwind/include/sys/sysmacros.h:
+
+/home/lq/For_RTD293X/system/toolchain/gcc4/asdk-4.9.3-a53-EL-3.10-u0.9.33-a32nt-150818-pread64-nostrip-asycunwind/include/bits/pthreadtypes.h:
+
+/home/lq/For_RTD293X/system/toolchain/gcc4/asdk-4.9.3-a53-EL-3.10-u0.9.33-a32nt-150818-pread64-nostrip-asycunwind/include/alloca.h:
+
+/home/lq/For_RTD293X/system/toolchain/gcc4/asdk-4.9.3-a53-EL-3.10-u0.9.33-a32nt-150818-pread64-nostrip-asycunwind/include/string.h:
+
+/home/lq/For_RTD293X/system/toolchain/gcc4/asdk-4.9.3-a53-EL-3.10-u0.9.33-a32nt-150818-pread64-nostrip-asycunwind/lib/gcc/arm-linux-uclibcgnueabi/4.9.3/include-fixed/limits.h:
+
+/home/lq/For_RTD293X/system/toolchain/gcc4/asdk-4.9.3-a53-EL-3.10-u0.9.33-a32nt-150818-pread64-nostrip-asycunwind/lib/gcc/arm-linux-uclibcgnueabi/4.9.3/include-fixed/syslimits.h:
+
+/home/lq/For_RTD293X/system/toolchain/gcc4/asdk-4.9.3-a53-EL-3.10-u0.9.33-a32nt-150818-pread64-nostrip-asycunwind/include/limits.h:
+
+/home/lq/For_RTD293X/system/toolchain/gcc4/asdk-4.9.3-a53-EL-3.10-u0.9.33-a32nt-150818-pread64-nostrip-asycunwind/include/bits/posix1_lim.h:
+
+/home/lq/For_RTD293X/system/toolchain/gcc4/asdk-4.9.3-a53-EL-3.10-u0.9.33-a32nt-150818-pread64-nostrip-asycunwind/include/bits/local_lim.h:
+
+/home/lq/For_RTD293X/system/toolchain/gcc4/asdk-4.9.3-a53-EL-3.10-u0.9.33-a32nt-150818-pread64-nostrip-asycunwind/include/linux/limits.h:
+
+/home/lq/For_RTD293X/system/toolchain/gcc4/asdk-4.9.3-a53-EL-3.10-u0.9.33-a32nt-150818-pread64-nostrip-asycunwind/include/bits/uClibc_local_lim.h:
+
+/home/lq/For_RTD293X/system/toolchain/gcc4/asdk-4.9.3-a53-EL-3.10-u0.9.33-a32nt-150818-pread64-nostrip-asycunwind/include/bits/posix2_lim.h:
+
+/home/lq/For_RTD293X/system/toolchain/gcc4/asdk-4.9.3-a53-EL-3.10-u0.9.33-a32nt-150818-pread64-nostrip-asycunwind/include/errno.h:
+
+/home/lq/For_RTD293X/system/toolchain/gcc4/asdk-4.9.3-a53-EL-3.10-u0.9.33-a32nt-150818-pread64-nostrip-asycunwind/include/bits/errno.h:
+
+/home/lq/For_RTD293X/system/toolchain/gcc4/asdk-4.9.3-a53-EL-3.10-u0.9.33-a32nt-150818-pread64-nostrip-asycunwind/include/linux/errno.h:
+
+/home/lq/For_RTD293X/system/toolchain/gcc4/asdk-4.9.3-a53-EL-3.10-u0.9.33-a32nt-150818-pread64-nostrip-asycunwind/include/asm/errno.h:
+
+/home/lq/For_RTD293X/system/toolchain/gcc4/asdk-4.9.3-a53-EL-3.10-u0.9.33-a32nt-150818-pread64-nostrip-asycunwind/include/asm-generic/errno.h:
+
+/home/lq/For_RTD293X/system/toolchain/gcc4/asdk-4.9.3-a53-EL-3.10-u0.9.33-a32nt-150818-pread64-nostrip-asycunwind/include/asm-generic/errno-base.h:
+
+qrencode.h:
+
+qrspec.h:
+
+mask.h:

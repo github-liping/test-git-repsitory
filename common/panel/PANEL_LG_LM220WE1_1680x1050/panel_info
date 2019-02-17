@@ -1,0 +1,4 @@
+#define PANEL_NAME	"LM220WE1_TLE1"
+#define PANEL_SIZE	"22"
+#define P_RESOLUTION	"1680 x 1050"
+#include <Platform_Lib/panel/PANEL_LG_LM220WE1_1680x1050/panel.h>

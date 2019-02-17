@@ -1,0 +1,4 @@
+#define PANEL_NAME	"V500HK_PE8"
+#define PANEL_SIZE	"50"
+#define P_RESOLUTION	"1920 x 1080"
+#include <Platform_Lib/panel/PANEL_V500HK_PE8_1920x1080/panel.h>

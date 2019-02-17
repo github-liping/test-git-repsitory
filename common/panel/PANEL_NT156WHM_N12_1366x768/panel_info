@@ -1,0 +1,4 @@
+#define PANEL_NAME	"NT156WHM_N12"
+#define PANEL_SIZE	"15.6"
+#define P_RESOLUTION	"1366 x 768"
+#include <Platform_Lib/panel/PANEL_NT156WHM_N12_1366x768/panel.h>

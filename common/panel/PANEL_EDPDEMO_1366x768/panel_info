@@ -1,0 +1,4 @@
+#define PANEL_NAME	"PANEL_B156XTN03_1366x768"
+#define PANEL_SIZE	"15.6"
+#define P_RESOLUTION	"1366 x 768"
+#include <Platform_Lib/panel/PANEL_B156XTN03_1366x768/panel.h>

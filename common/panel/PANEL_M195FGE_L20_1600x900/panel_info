@@ -1,0 +1,4 @@
+#define PANEL_NAME	"M195FGE_L20"
+#define PANEL_SIZE	"19.5"
+#define P_RESOLUTION	"1600x900"
+#include <Platform_Lib/panel/PANEL_M195FGE_L20_1600x900/panel.h>

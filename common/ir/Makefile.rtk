@@ -1,0 +1,41 @@
+-include ../../../src/Tools/MConfig/.config
+include ../../../include/MakeConfig
+
+MYDEFS=
+rm=/bin/rm -f
+cp=/bin/cp -f
+CC= $(MYCXX)
+AR= $(MYAR) cq
+RANLIB=$(MYRANLIB)
+LIBNAME= ../../../lib/libRemote.a
+
+INCLUDES=  -I../../Include/
+
+ifeq ($(GCODE_MENU), YES)
+MYDEFS+= -DGCODE_MENU
+endif
+
+CFLAGS= $(INCLUDES) $(DEFINES) -DSYS_UNIX=1 $(MYDEFS)
+
+SRCS = ./RemoteControl.cpp
+OBJS = ./RemoteControl.o
+
+SRCS += ./ir_map.cpp
+OBJS += ./ir_map.o
+
+include irc.mk
+
+.cpp.o:
+	$(rm) -f $@
+	$(SHOW_COMMAND)echo -=--=--=- [$*.cpp] -=--=--=--=--=--=--=--=--=-
+	$(SHOW_COMMAND)$(CC) $(CFLAGS) $(DEBUGFLAG) $(WARNING) -c $*.cpp
+
+all: $(LIBNAME)
+
+$(LIBNAME) : $(OBJS)
+	$(rm) $@
+	$(AR) $@ $(OBJS)
+	$(RANLIB) $@
+
+clean:
+	$(rm) $(OBJS) $(LIBNAME) core *~

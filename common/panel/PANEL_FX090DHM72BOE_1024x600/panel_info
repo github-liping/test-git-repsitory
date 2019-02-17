@@ -1,0 +1,4 @@
+#define PANEL_NAME	"PANEL_FX090DHM72BOE"
+#define PANEL_SIZE	"9"
+#define P_RESOLUTION	"1024 x 600"
+#include <Platform_Lib/panel/PANEL_FX090DHM72BOE_1024x600/panel.h>

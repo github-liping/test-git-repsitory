@@ -1,0 +1,4 @@
+#define PANEL_NAME	"LC320TU2A"
+#define PANEL_SIZE	"32"
+#define P_RESOLUTION	"1366 x 768"
+#include <Platform_Lib/panel/PANEL_PANDA_LC320TU2A_1366x768/panel.h>

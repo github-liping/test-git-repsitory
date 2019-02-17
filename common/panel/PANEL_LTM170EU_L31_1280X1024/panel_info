@@ -1,0 +1,4 @@
+#define PANEL_NAME	"LTM170EU_L31"
+#define PANEL_SIZE	"17"
+#define P_RESOLUTION	"1280 x 1024"
+#include <Platform_Lib/panel/PANEL_LTM170EU_L31_1280X1024/panel.h>

@@ -1,0 +1,4 @@
+#define PANEL_NAME	"T390XVN010"
+#define PANEL_SIZE	"39"
+#define P_RESOLUTION	"1366 x 768"
+#include <Platform_Lib/panel/PANEL_T390XVN010_1366x768/panel.h>

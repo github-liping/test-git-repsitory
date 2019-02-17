@@ -1,0 +1,4 @@
+#define PANEL_NAME	"LT150"
+#define PANEL_SIZE	"150"
+#define P_RESOLUTION	"1024 x 768"
+#include <Platform_Lib/panel/PANEL_CMO_M150X2_6BIT_1024x768/panel.h>

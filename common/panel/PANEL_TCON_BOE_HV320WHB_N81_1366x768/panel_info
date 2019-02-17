@@ -1,0 +1,4 @@
+#define PANEL_NAME	"HV320WHB-N81"
+#define PANEL_SIZE	"31.5"
+#define P_RESOLUTION	"1366 x 768"
+#include <Platform_Lib/panel/PANEL_TCON_BOE_HV320WHB_N81_1366x768/panel.h>

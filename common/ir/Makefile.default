@@ -1,0 +1,16 @@
+#
+# This file is config default remote IR
+# @Author Longqi mail:1218715400@qq.com
+ 
+ -include ../../../../.config
+
+OBJS-y += ../../../../hikeen/common/ir/hk_remote.o
+
+#
+# add default config
+#
+OBJS-y += ../../../../hikeen/common/ir/IR_HKFAC/HKFAC_Map.o
+
+
+#/*add by wyf@20171107 for CY  */
+OBJS-y += ../../../../hikeen/common/ir/IR_CYFAC/CYFAC_Map.o

@@ -1,0 +1,4 @@
+#define PANEL_NAME	"BENQ"
+#define PANEL_SIZE	"21.5"
+#define P_RESOLUTION	"1920 x 1080"
+#include <Platform_Lib/panel/PANEL_BENQ_HD_1920x1080/panel.h>

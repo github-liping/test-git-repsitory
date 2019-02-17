@@ -1,0 +1,4 @@
+#define PANEL_NAME	"PANEL_HK_SD"
+#define PANEL_SIZE	"22"
+#define P_RESOLUTION	"1366 x 768"
+#include <Platform_Lib/panel/PANEL_HK_SD_1366x768/panel.h>

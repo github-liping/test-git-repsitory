@@ -1,0 +1,4 @@
+#define PANEL_NAME	"T550QVR05.0"
+#define PANEL_SIZE	"55"
+#define P_RESOLUTION	"1920 x 1080"
+#include <Platform_Lib/panel/PANEL_T550QVR05_0_1920x1080/panel.h>

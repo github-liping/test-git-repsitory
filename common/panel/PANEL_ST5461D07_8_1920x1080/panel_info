@@ -1,0 +1,4 @@
+#define PANEL_NAME	"ST5461D07_8"
+#define PANEL_SIZE	"55"
+#define P_RESOLUTION	"1920 x 1080"
+#include <Platform_Lib/panel/PANEL_ST5461D07_8_1920x1080/panel.h>

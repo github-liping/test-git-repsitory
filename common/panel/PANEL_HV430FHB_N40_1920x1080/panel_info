@@ -1,0 +1,4 @@
+#define PANEL_NAME	"HV430FHB_N40"
+#define PANEL_SIZE	"43"
+#define P_RESOLUTION	"1920 x 1080"
+#include <Platform_Lib/panel/PANEL_HV430FHB_N40_1920x1080/panel.h>

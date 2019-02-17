@@ -1,0 +1,4 @@
+#define PANEL_NAME	"HV236WHB_N00"
+#define PANEL_SIZE	"24"
+#define P_RESOLUTION	"1366 x 768"
+#include <Platform_Lib/panel/PANEL_CY_HV236WHB_N00_1366x768/panel.h>

@@ -1,0 +1,4 @@
+#define PANEL_NAME	"LG_LC430DUY_SHA1"
+#define PANEL_SIZE	"43"
+#define P_RESOLUTION	"1920 x 1080"
+#include <Platform_Lib/panel/PANEL_LG_LC430DUY_SHA1_1920x1080/panel.h>

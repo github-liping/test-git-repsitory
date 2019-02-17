@@ -1,0 +1,4 @@
+#define PANEL_NAME	"LM195WD1_TLA1"
+#define PANEL_SIZE	"19"
+#define P_RESOLUTION	"1600 x 900"
+#include <Platform_Lib/panel/PANEL_LG_LM195WD1_TLA1_1600x900/panel.h>

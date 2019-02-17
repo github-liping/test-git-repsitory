@@ -1,0 +1,4 @@
+#define PANEL_NAME	"N156HGE_EA2"
+#define PANEL_SIZE	"15.6"
+#define P_RESOLUTION	"1920 x 1080"
+#include <Platform_Lib/panel/PANEL_EDP_N156HGE_EA2_1920x1080/panel.h>

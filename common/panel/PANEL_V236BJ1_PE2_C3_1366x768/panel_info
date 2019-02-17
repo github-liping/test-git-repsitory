@@ -1,0 +1,4 @@
+#define PANEL_NAME	"V236BJ1_PE2_C3"
+#define PANEL_SIZE	"23.6"
+#define P_RESOLUTION	"1366 x 768"
+#include <Platform_Lib/panel/PANEL_V236BJ1_PE2_C3_1366x768/panel.h>

@@ -1,0 +1,4 @@
+#define PANEL_NAME	"CY_V320BJ6_Q01"
+#define PANEL_SIZE	"32"
+#define P_RESOLUTION	"1366 x 768"
+#include <Platform_Lib/panel/PANEL_CY_V320BJ6_Q01_1366x768/panel.h>

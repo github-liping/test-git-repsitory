@@ -1,0 +1,4 @@
+#define PANEL_NAME	"CMI_LM170ET01_1280x1024"
+#define PANEL_SIZE	"17"
+#define P_RESOLUTION	"1280 x 1024"
+#include <Platform_Lib/panel/PANEL_SAM_LM170ET01_1280x1024/panel.h>
