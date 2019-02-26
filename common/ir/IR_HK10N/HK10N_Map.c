@@ -4,7 +4,7 @@
 #include <Platform_Lib/RemoteControl/RemoteControl.h>
 #include <Application/AppClass/setupdef_source_option.h>
 #include "HK10N_Map.h"
-
+//just for test liping 190229
 typedef	struct _stHK10N_DTVKeyMAP
 {
 	int	oriIRKey;
