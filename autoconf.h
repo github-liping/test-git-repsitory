@@ -6,7 +6,7 @@
 #define __AUTO_CONFIG_H
 
 //liping 0217 add just for test git
-
+//for develop test rebase
 
 // 
 //  Automatically generated make config: don't edit
