@@ -19,5 +19,6 @@ if !ISDB_SYSTEM
 source system/project/TV036_EuroDVB/custom_DVBT/Resource/ui_script//Kconfig
 endif
 
-####develop modify
+####develop modify + merge master
 #############
+
